@@ -1,0 +1,5 @@
+case,model,cores,timed_iterations,minutes,cells,slab_mass_weighted_temperature_K,residual_iterations,continuity_residual,energy_residual
+Baseline,Species Transport,32,2000,240,11932366,1386.944,50000,0.072422,2.2728e-05
+Case1,Species Transport,32,2000,120,3189262,1364.511,50000,0.00076108,8.7714e-06
+Case2,Species Transport,32,2000,110,3736797,1365.358,50000,0.00029822,1.9093e-06
+Final,Species Transport,32,2000,50,2227250,1361.207,50000,0.00047692,1.1307e-07

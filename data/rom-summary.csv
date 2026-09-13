@@ -1,0 +1,6 @@
+model,metric,value,unit,scope
+POD+RBF,mean_case_RMSE,2.89,K,2026-04-28 reported test cases versus CFD
+POD+RBF,max_case_RMSE,6.38,K,Maximum case RMSE; not maximum point error
+POD+RBF,min_case_RMSE,1.0,K,Minimum case RMSE
+CFD,approximate_runtime,4,hours,Researcher-reported per-condition execution
+POD+RBF,inference_runtime,<1,second,Researcher-reported; excludes training and CFD generation
